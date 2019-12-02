@@ -16,7 +16,7 @@ An application that stores cars that can be rented by other users.
 # Available Scripts
 In the project directory, you can run:
 
-npm install
+[npm install]
 
 Runs the app in the development mode.
 
