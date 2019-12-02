@@ -1,0 +1,11 @@
+div.background {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url("./813046-beautiful-cool-backgrounds-of-cars-2560x1600.jpg");
+    background-size: 100% 110%;
+
+    background-repeat: no-repeat;
+}

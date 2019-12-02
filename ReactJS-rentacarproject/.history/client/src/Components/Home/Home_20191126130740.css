@@ -1,0 +1,11 @@
+div.background {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url("./1fff2757dbc4670fb3e568dde7474832.jpg");
+    
+
+    background-repeat: no-repeat;
+}

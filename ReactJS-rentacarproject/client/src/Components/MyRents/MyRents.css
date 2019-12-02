@@ -1,0 +1,55 @@
+div.myRents div.listings:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+div.myRents a.button{
+    display: inline-block;
+    width: 40%;
+    height: 40px;
+    background-color: #520469;
+    border: none;
+    font-size: 35px;
+    border-radius: 4px;
+    color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-decoration: none;
+    text-align: center
+}
+div.myRents a.button:hover{
+    display: inline-block;
+    height:38px;
+    width: 39%;
+    background-color: white;
+    border: 2px solid #520469;
+    border-radius: 4px;
+    color: #520469;
+}
+
+
+div.myRents div.listing{
+    float: left;
+    width: 33.33%;
+}
+
+div.myRents div.listing h2{
+    text-align: center;
+    background-color: #920c0c;
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 2px;
+}
+div.myRents div.listings img {
+    display: block;
+    margin-left: auto;
+    max-height: 300px;
+    max-width: 95%;
+    margin-right: auto;
+    width: 95%;
+    height: 300px;
+    min-height: 95%;
+    min-width: 95%;
+}

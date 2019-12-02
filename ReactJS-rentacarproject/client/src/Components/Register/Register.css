@@ -1,0 +1,49 @@
+div.register div.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+div.register input[type="text"],
+div.register input[type="password"]{
+    margin-top: 5px;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+div.register input[type="text"]:hover,
+div.register input[type="password"]:hover{
+    margin-top: 5px;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 5px;
+    border: 1px solid rgb(172, 171, 171);
+    background-color: rgb(251, 251, 251);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+div.register input[type="submit"] {
+    width: 100px;
+    height: 40px;
+    margin-top: 5px;
+    background-color: #520469;
+    border: none;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    margin-left: 30%;
+    font-size: 22px;
+    border-radius: 4px;
+    color: white;
+}
+div.register input[type="submit"]:hover {
+    width: 100px;
+    height: 40px;
+    margin-top: 5px;
+    background-color: white;
+    border: 2px solid #520469;
+    font-size: 16px;
+    border-radius: 4px;
+    color: #520469  ;
+}
